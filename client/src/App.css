@@ -1,6 +1,26 @@
 .App {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
   text-align: center;
+  background-color: #ffc851;
+  margin: 0px;
+  padding: 10px;
 }
+
+.App img{
+  width: 70px;
+  border-radius: 50%;
+  border: solid 2px rgb(255, 255, 255);
+  box-shadow: 2px 2px 2px black;
+}
+
+.App h1{
+  margin-left: 12px;
+}
+
+.App
 
 .App-logo {
   height: 40vmin;
